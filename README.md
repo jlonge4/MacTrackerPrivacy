@@ -1,0 +1,2 @@
+# MacTrackerPrivacy
+Privacy Policy
